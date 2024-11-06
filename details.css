@@ -1,0 +1,70 @@
+h1{
+  text-align: center;
+  color: rgb(254, 252, 248);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  padding: 20px;
+  background-color: rgba(4, 4, 4, 0.684);
+  margin-top: 0px;
+  
+}
+.dep{
+  color: red;
+}
+.arr{
+  color: green;
+}
+table{
+margin-left: 15%;
+height:500px;
+width: 70%;
+margin-right: 80%;
+background-color: rgb(248, 255, 169);
+border-color: rgb(75, 75, 75);
+border-radius: 10px;
+padding-left: 10px;
+margin-top: 80px;
+opacity: 99%;
+box-shadow: 20px 20px 50px 10px rgb(236, 223, 124) inset;
+border-collapse: collapse;
+box-shadow: 0 4px 8px 0 rgba(0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+
+
+}
+button{
+  background-color: rgb(22, 140, 176);
+  border-radius: 8px;
+  border: none;
+  height: 30px;
+  color: white;
+}
+
+
+
+body{
+  padding: 0;
+  margin: 0;
+  background-image: url(wp4312251.webp);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 80%;
+  background-blend-mode: darken;
+}
+.tname{
+  text-decoration: none;
+  color:rgb(0, 110, 255);
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-weight: bold;
+
+}
+th{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: large;
+  font-weight: bolder;
+  background-color: black;
+  color: white;
+}
+td{
+  text-align: center;
+  font-weight: bold;
+}

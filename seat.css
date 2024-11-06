@@ -1,0 +1,59 @@
+table{
+  background-color: rgba(255, 255, 255, 0.564);
+
+  height: 500px;
+  width: 85%;
+  margin-left: 90px;
+  color: antiquewhite;
+  text-align: center;
+border-radius: 20px;
+border-collapse: collapse;
+margin-top: 80px;
+box-shadow: 0 4px 8px 0 rgba(0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+ 
+  
+
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url(wp4312251.webp);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.head{
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background-color:yell
+}
+.th1{
+  background-color: rgba(0, 0, 0, 0.805);
+  color: antiquewhite;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+td{
+  background-color: rgba(238, 236, 231, 0.927);
+  color: brown;
+  font-family: 'Times New Roman', Times, serif;
+  /* border-radius: 10px; */
+  width: 20%;
+}
+th{
+  background-color: rgb(250, 255, 187);
+  border-radius: 14px;
+  color: rgb(0, 0, 0);
+  font-size: large;
+  width: 20%;
+}
+a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: large;
+}
+button{
+  background-color: rgb(62, 62, 254);
+  width: 50px;
+  height: 30px;
+  border-radius: 10px;
+  border: none;
+}
